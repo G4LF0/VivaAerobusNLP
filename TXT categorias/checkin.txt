@@ -1,0 +1,40 @@
+Check-in
+Equipaje
+Etiqueta
+Vuelo
+Destino
+Origen
+Asiento
+Pasaporte
+Documentación
+Tarjeta de embarque
+Identificación
+Pasajero
+Facturación
+Facturar
+Adelantar
+Atrasar
+Cambiar
+Confirmar
+Reservación
+Conexión
+Tránsito
+Migración
+Aduanas
+Seguridad
+Detector de metales
+Rayos X
+Escáner
+Transporte
+Almacenamiento
+Entrega
+Taxi
+Coche
+Autobús
+Tren
+Aeropuerto
+Terminal
+Sala de espera
+Puesto de información
+Servicio al cliente
+Regulaciones

@@ -1,0 +1,50 @@
+Reserva
+Tarifa
+Clase
+Asiento
+Ventanilla
+Pasillo
+Vuelo
+Destino
+Origen
+Salida
+Llegada
+Escala
+Conexión
+Aeropuerto
+Terminal
+Gate
+Embarque
+Desembarque
+Facturación
+Check-in
+Equipaje
+Sobrepeso
+Maleta
+Mochila
+Bolsa de viaje
+Servicio a bordo
+Comida
+Bebida
+Entretenimiento
+Wi-Fi
+Cargador
+Luz de lectura
+Manta
+Almohada
+Kits de viaje
+Auriculares
+Pago
+Efectivo
+Tarjeta de crédito
+Tarjeta de débito
+Transferencia bancaria
+PayPal
+Google Pay
+Apple Pay
+Alipay
+WeChat Pay
+Moneda local
+Cambio de moneda
+Tasa de cambio
+Confirmación

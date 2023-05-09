@@ -1,0 +1,64 @@
+Boleto
+Pasaje
+Reserva
+Tarifa
+Clase
+Asiento
+Ventanilla
+Pasillo
+Vuelo
+Destino
+Origen
+Salida
+Llegada
+Escala
+Conexión
+Aeropuerto
+Facturación
+Check-in
+Equipaje
+Sobrepeso
+Maleta
+Mochila
+Bolsa de viaje
+Transporte de equipaje
+Wi-Fi
+Pago
+Efectivo
+Tarjeta de crédito
+Tarjeta de débito
+Transferencia bancaria
+PayPal
+Google Pay
+Apple Pay
+Moneda local
+Cambio de moneda
+Tasa de cambio
+Impuestos
+Tarifa de uso del aeropuerto
+Seguro de viaje
+Seguro de cancelación
+Seguro de equipaje
+Seguro médico
+Descuento
+Oferta
+Promoción
+Cupón
+Código de descuento
+Confirmación de reserva
+Cancelación de reserva
+Cambio de reserva
+Reembolso
+Política de cancelación
+Política de cambio
+Política de reembolso
+Política de equipaje
+Tamaño del equipaje
+Peso del equipaje
+Equipaje de mano
+Equipaje documentado
+Equipaje perdido
+Equipaje retrasado
+Carga
+Tarifa de carga
+Espacio de carga
